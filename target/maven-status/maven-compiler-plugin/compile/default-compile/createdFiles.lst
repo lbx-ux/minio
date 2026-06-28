@@ -1,0 +1,5 @@
+com\fjq\config\MinioConfig.class
+com\fjq\MinIoApplication.class
+com\fjq\properties\MinioProperties.class
+com\fjq\controller\FileController.class
+com\fjq\service\MinioService.class
