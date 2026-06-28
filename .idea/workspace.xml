@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77c20404-b190-4de2-9bd0-376256e86c66" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjq/config/MinioConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjq/controller/FileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjq/properties/MinioProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fjq/service/MinioService.java" afterDir="false" />
+    <list default="true" id="77c20404-b190-4de2-9bd0-376256e86c66" name="更改" comment="初始化项目搭建">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fjq/config/MinioConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fjq/config/MinioConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fjq/service/MinioService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fjq/service/MinioService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fjq/service/MinioService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fjq/service/MinioService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +56,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.MinIo [clean].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.MinIoApplication.executor": "Debug",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -96,11 +100,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1782613717584</updated>
-      <workItem from="1782613721696" duration="3624000" />
+      <workItem from="1782613721696" duration="4753000" />
     </task>
+    <task id="LOCAL-00001" summary="初始化项目搭建">
+      <option name="closed" value="true" />
+      <created>1782617571520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1782617571520</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始化项目搭建" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化项目搭建" />
   </component>
 </project>
